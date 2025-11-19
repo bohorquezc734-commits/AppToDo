@@ -15,16 +15,16 @@ Ideal para aprender la estructura de un proyecto ASP.NET con **Controllers**, **
 - .NET X (ej. .NET 7 / .NET 8 — reemplazar por la versión real)
 - ASP.NET Core MVC / Razor Pages (según implementación)
 - C#
-- Entity Framework Core (si usas base de datos)
-- SQL Server / SQLite (según configuración)
-- Visual Studio 2022 (recomendado)
+- Entity Framework Core
+- MongoDB
+- Visual Studio 2022 
 
 ---
 
 ## 🔧 Requisitos previos
 - .NET SDK instalado (ver: `dotnet --version`)
 - Visual Studio 2022 o 2019 con workload de ASP.NET y desarrollador web
-- (Opcional) SQL Server / LocalDB o SQLite
+- MongoDB
 
 ---
 
